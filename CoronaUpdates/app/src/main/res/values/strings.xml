@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Corona Updates</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="symptoms">
+        <item>Cough</item>
+        <item>Fever</item>
+        <item>Difficulty Breathing</item>
+
+    </string-array>
+
+    <string-array name="disease">
+        <item>Diabetes</item>
+        <item>Hyper Tension</item>
+        <item>Lung Disease</item>
+        <item>Heart Disease</item>
+
+    </string-array>
+
+    <string-array name="travel_history">
+        <item>Travelled Internationally in last 14 days</item>
+        <item>Recently Interacted with active patient</item>
+        <item>I am a Health Care worker</item>
+
+    </string-array>
+</resources>
